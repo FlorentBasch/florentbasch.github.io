@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Cours de philosophie -- TG</title>
+</head>
+<body>
+    <h1>Cours de Mathématiques</h1>
+    <ul>
+        <li><a href="cours-maths-chap1.pdf" target="_blank">Chapitre 1 - Algèbre</a></li>
+        <li><a href="cours-maths-chap2.pdf" target="_blank">Chapitre 2 - Géométrie</a></li>
+    </ul>
+    <a href="index.html">Retour à la page d'accueil</a>
+</body>
+</html>
